@@ -58,8 +58,3 @@ const playGame = (userChoice) => {
     }    
 }
     
-
-
-
-
-
